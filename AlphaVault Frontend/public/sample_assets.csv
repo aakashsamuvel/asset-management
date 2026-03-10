@@ -1,0 +1,3 @@
+Name,Type,Location,PurchaseDate,PurchasePrice,Status,Model,SerialNumber,Vendor,WarrantyStartDate,WarrantyEndDate,WarrantyProvider,Description,Processor,Ram,Storage,ScreenSize,Resolution,PanelType,RefreshRate,ConnectionType,BatteryLife,OrderNumber
+Laptop 1,Computer,Office,2023-01-15,120000,Active,ThinkPad T14,SN12345,Lenovo,2023-01-15,2026-01-14,Lenovo,"14-inch laptop",Intel Core i5,16GB,512GB SSD,14",1920x1080,IPS,60Hz,Wireless,8 hours,PO123
+Monitor 1,Monitor,Home,2023-02-20,30000,Active,UltraSharp U2721DE,SN67890,Dell,2023-02-20,2026-02-19,Dell,"27-inch 4K monitor",,,,,27",3840x2160,IPS,60Hz,Wired,,PO124
